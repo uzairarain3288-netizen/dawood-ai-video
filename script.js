@@ -3,7 +3,7 @@ const videos = [
     title: "Main Khud Anjanam (Ost)",
     category: "Thriller",
     description: "⚡ Get ready for an intense hacking thriller filled with suspense, action, mystery, and unexpected twists!",
-    thumbnail: "img/ost.jpeg",
+    thumbnail: "img/ost.jpg",
     youtube: "https://youtu.be/eDuJW_o5s14?si=hXKMzwoilvkjtYpJ"
   },
  ];
